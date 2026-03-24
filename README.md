@@ -33,5 +33,5 @@ You can follow my projects, experiments, and journey at github.com/vimlinuz.
    *Discord* > vimlinuz <br/>
    *Github* > well <br/>
    *Mail* > vimlinuz [at] gmail.com <br/>
-   *Site* > https://santoshxshrestha.tech <br/>
+   *Site* > https://vimlinuz.is-a.dev/ <br/>
 </details>
